@@ -10,8 +10,8 @@ I am **David Iheanacho Nwokoro**, a cybersecurity and IT enthusiast with experti
 - **Mentorship**: Guiding aspiring professionals in IT and cybersecurity.
 
 ## Featured Projects
-- [ZTNA vs Perimeter Security](https://github.com/YourUsername/ZTNA_vs_Perimeter_Security)
-- [Predictive Marketing Analytics](https://github.com/YourUsername/Predictive_Marketing_Analytics)
-- [Cybersecurity in Nigerian Banks](https://github.com/YourUsername/Cybersecurity_Risk_Nigerian_Banks)
+- [ZTNA vs Perimeter Security](https://github.com/nachox001/ZTNA_vs_Perimeter_Security)
+- [Predictive Marketing Analytics](https://github.com/nachox001/Predictive_Marketing_Analytics)
+- [Cybersecurity in Nigerian Banks](https://github.com/nachox001/Cybersecurity_Risk_Nigerian_Banks)
 
 Explore my repositories to learn more about my projects and contributions. I’m always open to collaboration and new opportunities!
