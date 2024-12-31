@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile 👋
 
-I am **David Iheanacho Nwokoro**, a cybersecurity and IT enthusiast with expertise in Zero Trust architectures, data-driven marketing, and mentoring. I hold an M.Sc. in Cybersecurity and a B.Sc. in Computer Science. My goal is to contribute to innovative projects that improve security, optimize processes, and empower others through mentorship.
+I am **David Iheanacho Nwokoro**, a cybersecurity and IT enthusiast with expertise in Zero Trust architectures, data-driven marketing, and mentoring. I hold an M.Sc. in Cybersecurity and a B.Sc. in Computer Science. I have over 15 years experience in Technology across different business industry sectors. My goal is to contribute to innovative projects that improve security, optimize processes, and empower others through mentorship.
 
 ## Areas of Expertise
 - **Cybersecurity**: Focused on Zero Trust, risk management, and regulatory compliance.
