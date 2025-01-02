@@ -3,39 +3,117 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>David Nwokoro's Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <title>David Nwokoro's IT Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background: #007BFF;
+            color: #fff;
+            padding: 0.5rem 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 1rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .introduction {
+            background: #fff;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+        .project {
+            background: #fff;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .project h2 {
+            color: #007BFF;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to My Portfolio</h1>
-        <p>Explore my projects and contributions in IT and cybersecurity.</p>
+        <h1>David Nwokoro's IT Portfolio</h1>
     </header>
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <p>I am <strong>David Iheanacho Nwokoro</strong>, a cybersecurity and IT enthusiast with expertise in Zero Trust architectures, data-driven marketing, and mentoring. I hold an M.Sc. in Cybersecurity and a B.Sc. in Computer Science. I have over 15 years of experience in technology across different business industry sectors. My goal is to contribute to innovative projects that improve security, optimize processes, and empower others through mentorship.</p>
-        </section>
-        <section>
-            <h2>Areas of Expertise</h2>
-            <ul>
-                <li><strong>Cybersecurity:</strong> Focused on Zero Trust, risk management, and regulatory compliance.</li>
-                <li><strong>Data Analytics:</strong> Leveraging machine learning for predictive insights.</li>
-                <li><strong>Mentorship:</strong> Guiding aspiring professionals in IT and cybersecurity.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Featured Projects</h2>
-            <ul>
-                <li><a href="https://github.com/nachox001/ZTNA_vs_Perimeter_Security">ZTNA vs Perimeter Security</a></li>
-                <li><a href="https://github.com/nachox001/Predictive_Marketing_Analytics">Predictive Marketing Analytics</a></li>
-                <li><a href="https://github.com/nachox001/Cybersecurity_Risk_Nigerian_Banks">Cybersecurity in Nigerian Banks</a></li>
-            </ul>
-            <p>Explore my repositories to learn more about my projects and contributions. I’m always open to collaboration and new opportunities!</p>
-        </section>
-    </main>
+    <nav>
+        <a href="#cybersecurity">Cybersecurity</a>
+        <a href="#ztna">ZTNA</a>
+        <a href="#network-security">Network Security</a>
+        <a href="#penetration-testing">Penetration Testing</a>
+        <a href="#it-infrastructure">IT Infrastructure</a>
+    </nav>
+    <div class="container">
+        <div class="introduction">
+            <h2>Welcome!</h2>
+            <p>Hello, my name is David Nwokoro. I am a seasoned IT professional with expertise in cybersecurity, IT infrastructure, and advanced technology solutions. This portfolio showcases some of my most impactful projects, highlighting my commitment to innovation, security, and excellence in the IT field. Feel free to explore each project to learn more about my contributions and achievements.</p>
+        </div>
+        <div id="cybersecurity" class="project">
+            <h2>Cybersecurity Risk Management in Nigerian Banks</h2>
+            <p><strong>Overview:</strong> Conducted a comprehensive cybersecurity risk management project addressing regulatory compliance in Nigerian banks.</p>
+            <p><strong>Key Deliverables:</strong> Risk assessments, vulnerability management, and compliance documentation.</p>
+            <p><strong>Outcome:</strong> Reduced risk exposure by 30% and improved regulatory compliance metrics.</p>
+        </div>
+        <div id="ztna" class="project">
+            <h2>Zero Trust Network Access (ZTNA) Implementation</h2>
+            <p><strong>Overview:</strong> Led the design and implementation of a Zero Trust Network Access system to enhance security.</p>
+            <p><strong>Key Deliverables:</strong> Network segmentation, identity verification, and multi-factor authentication.</p>
+            <p><strong>Outcome:</strong> Significantly reduced unauthorized access risks and improved system security.</p>
+        </div>
+        <div id="network-security" class="project">
+            <h2>Network Security Overhaul for a Global IT Firm</h2>
+            <p><strong>Overview:</strong> Redesigned the entire network infrastructure for a global IT services provider.</p>
+            <p><strong>Key Deliverables:</strong> Firewall configuration, VPN setup, and encryption standards implementation.</p>
+            <p><strong>Outcome:</strong> Enhanced network performance and reduced vulnerabilities by 40%.</p>
+        </div>
+        <div id="penetration-testing" class="project">
+            <h2>Penetration Testing for a Financial Services Company</h2>
+            <p><strong>Overview:</strong> Performed penetration testing for a mid-sized financial firm to identify security gaps.</p>
+            <p><strong>Key Deliverables:</strong> Vulnerability scanning, exploit development, and detailed reporting.</p>
+            <p><strong>Outcome:</strong> Discovered and resolved critical vulnerabilities, ensuring data safety.</p>
+        </div>
+        <div id="it-infrastructure" class="project">
+            <h2>IT Infrastructure Setup for a Healthcare Provider</h2>
+            <p><strong>Overview:</strong> Led the IT infrastructure setup for a new healthcare facility.</p>
+            <p><strong>Key Deliverables:</strong> Server configuration, network design, and data encryption.</p>
+            <p><strong>Outcome:</strong> Successfully deployed a robust, secure IT system supporting 24/7 operations.</p>
+        </div>
+    </div>
     <footer>
-        <p>&copy; 2024 David Nwokoro</p>
+        <p>&copy; 2025 David Nwokoro. All rights reserved.</p>
     </footer>
 </body>
 </html>
