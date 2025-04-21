@@ -1,17 +1,29 @@
 # DavidNwokoro.github.io
 
-# Welcome to My GitHub Profile 👋
+# 👋 Hi, I'm David Iheanacho Nwokoro
 
-I am **David Iheanacho Nwokoro**, a cybersecurity and IT enthusiast with expertise in Zero Trust architectures, data-driven marketing, and mentoring. I hold an M.Sc. in Cybersecurity and a B.Sc. in Computer Science. I have over 15 years experience in Technology across different business industry sectors. My goal is to contribute to innovative projects that improve security, optimize processes, and empower others through mentorship.
+I am a cybersecurity and IT professional with over 15 years of experience delivering secure, scalable technology solutions. My areas of expertise include Zero Trust architectures, data-driven decision making, and mentoring.
 
-## Areas of Expertise
-- **Cybersecurity**: Focused on Zero Trust, risk management, and regulatory compliance.
-- **Data Analytics**: Leveraging machine learning for predictive insights.
-- **Mentorship**: Guiding aspiring professionals in IT and cybersecurity.
+---
 
-## Featured Projects
-- [ZTNA vs Perimeter Security](https://github.com/nachox001/ZTNA_vs_Perimeter_Security)
-- [Predictive Marketing Analytics](https://github.com/nachox001/Predictive_Marketing_Analytics)
-- [Cybersecurity in Nigerian Banks](https://github.com/nachox001/Cybersecurity_Risk_Nigerian_Banks)
+## 🔐 Cybersecurity Projects
+- **[ZTNA vs Perimeter Security](https://github.com/nachox001/ZTNAvsPerimeterSecurity)**  
+  Comparative analysis of Zero Trust Network Access versus perimeter-based security.
+- **[DavidNwokoro](https://github.com/nachox001/DavidNwokoro)**  
+  My personal portfolio and cybersecurity insights.
 
-Explore my repositories to learn more about my projects and contributions. I’m always open to collaboration and new opportunities!
+## ⚙️ DevOps Projects
+- **[DevOps](https://github.com/nachox001/DevOps)**  
+  Projects and examples of DevOps practices.
+- **[CI/CD Pipeline Demo](https://github.com/nachox001/ci-cd-pipeline-demo)**  
+  Automation examples using CI/CD pipelines.
+
+## 🎓 Trainings & Certifications
+- **[Training and Certifications](https://github.com/nachox001/Training_and_Certifications)**  
+  A structured showcase of my professional development, including various IT, cybersecurity, and project management trainings.
+
+---
+
+📫 **Connect with me:**  
+GitHub: [nachox001](https://github.com/nachox001)  
+LinkedIn: www.linkedin.com/in/davidnwokoro 
